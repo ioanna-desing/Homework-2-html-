@@ -1,0 +1,40 @@
+.heading
+{
+    background-color: silver;
+    width: 250px;
+    text-align: center;
+    border:1px solid black;
+  }
+.info-content
+ {
+     background-color: rgb(222, 226, 228);
+    color: rgb(26, 21, 21);
+ } 
+ .list
+ { background-color: blanchedalmond;
+    color: rgb(26, 21, 21);
+    text-align: center;
+    width: 400px;
+    border: 1px solid black;
+}
+ .start
+ {
+     background-color: rgb(216, 188, 243);
+     color: rgb(26, 21, 21);
+     text-align: center;
+     border: 2px solid black;
+}
+.class li {
+  background-color: blanchedalmond;
+  color: rgb(41, 40, 40);
+  text-align: center;
+  border: 1px solid black;
+  width: 250px;
+  }
+  .class-li {
+    background-color: silver;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+  }
